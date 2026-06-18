@@ -9,7 +9,7 @@ Both exams scored full marks on the Gradescope autograder after enough tries.
 | Exam | Title | Package |
 |------|-------|---------|
 | [1](./Mock%20exam) | Resit Exam (Practical) - 2024-25 | traitors |
-| [2](./Sample%20exam) | Sample Exam | traitors package | library |
+| [2](./Sample%20exam) | Sample Exam | library |
 
 
 Each folder contains the original exam paper (PDF) alongside the package of `.java`/`.class` files written in response.
